@@ -27,7 +27,7 @@ print(p.compile())  # 产生字节码
 
 ## PickleHooker
 
-在`python3`Pickle源码上修改相关代码，可以实时执行的`stack`,`memo`,`metastack`和当前运行的指令。
+在`python3`Pickle源码上修改相关代码，可以实时显示的`stack`,`memo`,`metastack`和当前运行的指令。
 
 ### Usage
 
